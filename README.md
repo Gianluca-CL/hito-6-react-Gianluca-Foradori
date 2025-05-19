@@ -1,6 +1,6 @@
 # REACT HITO 5 
 
-Este repo contiene el desarrollo del Hito 5 de Reacto de DESAFIO LATAM, donde se implementó una aplicación React que consume una API REST construida con Node.js y Express para mostrar información de pizzas.
+Este repo contiene el desarrollo del Hito 6 de Reacto de DESAFIO LATAM, donde se implementó una aplicación React que consume una API REST construida con Node.js y Express para mostrar información de pizzas.
 
 
 
